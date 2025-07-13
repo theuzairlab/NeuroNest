@@ -1026,7 +1026,7 @@ export default function Home() {
         transition={{ duration: 0.8, delay: 1 }}
         className="text-center py-4 sm:py-6 text-gray-500 text-xs sm:text-sm px-4"
       >
-        <p>NeuroNest AI - Your Medical Assistant • Powered by Advanced AI</p>
+        <p>NeuroNest AI - Your Medical Assistant • Powered by NeuroNest Team</p>
       </motion.div>
 
       {/* Emergency Alert Modal */}
